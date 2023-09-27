@@ -2,8 +2,6 @@
 *
 
 #unignore what we want to track
-!*.cpp
-!*
 !*.html
 !.gitignore
 !*.css
