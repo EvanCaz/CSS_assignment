@@ -2,7 +2,11 @@
     text-align: center;
     color:black
 }
-.navbar {
-    text-align: left;
-    background-color: aqua;
+
+table {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
 }
